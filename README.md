@@ -1,5 +1,7 @@
 # GraphQL Language Service
 
+> ⚠️NOTICE!⚠️ This repository is about to be archived and join a monorepo.  Please make new PRs against the [ide-monorepo branch](https://github.com/graphql/graphiql/tree/ide-monorepo)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/graphql/graphql-language-service.svg)](https://greenkeeper.io/)
 
 _This is currently in technical preview. We welcome your feedback and suggestions._
